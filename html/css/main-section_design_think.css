@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+}
+
+.design_think {
+  max-width: 1126px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  max-height: 496px;
+  margin-left: 145px;
+  margin-top: 30px;
+  
+}
+
+h1 {
+font-size: 44px;
+}
+
+.design_think_img {
+  width: 605px;
+  height: 496px;
+}
+
+h1 ~ p {
+  font-size: 18px;
+}
+
+.design_think_link {
+  width: 161px;
+  height: 23;
+  color: #FF9900;
+  font-size: 16px;
+  text-decoration: none;
+  
+}
+
+.design_think_button {
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  border-radius: 4px ;
+  text-decoration: none;
+  width: 175px;
+  background-color: #FF9900;
+  color:#FFFFFF;
+  font-size: 16px;
+  
+}

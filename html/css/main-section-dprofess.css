@@ -1,0 +1,27 @@
+.main_section_Design_Profess {
+  margin-top: 120px;
+  margin-left: 145px;
+  height: 574px;
+  width: 1110px;
+  
+}
+
+.design_Profess {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+
+}
+
+.dprofess_img {
+  margin-left: 104px;
+  width: 520px;
+  height: 574px;
+  
+}
+
+.design_Profess_text {
+  width: 486px;
+  height: 531px;
+}

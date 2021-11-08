@@ -1,0 +1,31 @@
+.product_manager_section {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  width: 1121px;
+  height: 521px;
+  margin-left: 144px;
+  margin-top: 101px;
+}
+
+.product_manager_picture {
+  width: 521px;
+  height: 535px;
+  
+}
+
+.product_manager_text {
+  width: 427px;
+  height: 486px;
+}
+
+.product_manager_p {
+  display:inline-block;
+  width: 365px;
+}
+
+.proba {
+  display: inline-block;
+  margin-right: 20px;
+}

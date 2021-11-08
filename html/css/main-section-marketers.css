@@ -1,0 +1,22 @@
+.main_section_Marketers {
+  
+  width: 1110px;
+  height: 609px;
+  margin-left: 147px;
+  margin-top: 104px;
+}
+
+.marketers {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.marketers_img {
+  margin-left: 82px;
+}
+
+.line {
+  margin-top: 146px;
+}
